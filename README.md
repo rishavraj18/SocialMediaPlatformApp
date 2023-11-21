@@ -19,5 +19,9 @@ This repo is created to learn how to create microservices in C# that are based o
 
 - https://marketplace.visualstudio.com/items?itemName=jmrog.vscode-nuget-package-manager
 
+
+# Docker setup
+Refer my github repo for docker setup on windows os https://github.com/rishavraj18/SetUpDockerInWindows
+
 # Architecture digram
 ![alt text](./images/Architecture.png)
